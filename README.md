@@ -1,4 +1,4 @@
-# Image-to-Speech GenAI Tool (Extended Fork)
+# Image-to-Speech GenAI Tool
 
 This project is a customized fork of the open-source [Image-to-Speech-GenAI-Tool-Using-LLM](https://github.com/GURPREETKAURJETHRA/Image-to-Speech-GenAI-Tool-Using-LLM) by **@GURPREETKAURJETHRA** (MIT License).  
 My contributions include:
