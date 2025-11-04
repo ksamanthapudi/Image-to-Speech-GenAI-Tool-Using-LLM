@@ -7,7 +7,7 @@ My contributions include:
 - Enhanced UI and README documentation.  
 - Integrated **LangChain** orchestration for end-to-end multimodal workflows.
 
-© 2025 Kavya Samanthapudi — modifications released under the MIT License.
+**© 2025 Kavya Samanthapudi** — modifications released under the MIT License.
 
 # 🖼️Image to Speech GenAI Tool Using LLM 🌟♨️
 AI tool that generates an Audio short story based on the context of an uploaded image by prompting a GenAI LLM model, Hugging Face AI models together with OpenAI &amp; LangChain. Deployed on Streamlit & Hugging Space Cloud Separately.
