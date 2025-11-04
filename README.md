@@ -1,3 +1,14 @@
+# Image-to-Speech GenAI Tool (Extended Fork)
+
+This project is a customized fork of the open-source [Image-to-Speech-GenAI-Tool-Using-LLM](https://github.com/GURPREETKAURJETHRA/Image-to-Speech-GenAI-Tool-Using-LLM) by **@GURPREETKAURJETHRA** (MIT License).  
+My contributions include:
+- Fine-tuning **LLaMA 2** models with PyTorch for image caption generation.  
+- Added **GPU-accelerated inference** and quantization for optimized CPU deployment.  
+- Enhanced UI and README documentation.  
+- Integrated **LangChain** orchestration for end-to-end multimodal workflows.
+
+© 2025 Kavya Samanthapudi — modifications released under the MIT License.
+
 # 🖼️Image to Speech GenAI Tool Using LLM 🌟♨️
 AI tool that generates an Audio short story based on the context of an uploaded image by prompting a GenAI LLM model, Hugging Face AI models together with OpenAI &amp; LangChain. Deployed on Streamlit & Hugging Space Cloud Separately.
 
